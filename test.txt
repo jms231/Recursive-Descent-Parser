@@ -1,0 +1,4 @@
+firstvar        :=      17829   ;
+secondvar       :=      8732489 ;
+thirdvar        :=      0               ;
+
